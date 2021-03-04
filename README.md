@@ -1,2 +1,2 @@
 # Machine_Learning
-Some Google Colab notebooks with different ML methods
+Google Colab notebook with several Machine Learning algorithms. Useful for referencing and understanding how to use the different sklearn functions. Always check the assumptions of each method. Anyone can learn how to use these methods, however, understanding the meaning and extracting information from it is the point and requires in depth understanding of the statistic behind each function.
